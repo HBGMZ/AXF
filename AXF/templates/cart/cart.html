@@ -1,0 +1,17 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block title %}
+    购物车
+{% endblock %}
+
+{% block extcss %}
+    <link rel="stylesheet" href="{% static 'cart/css/cart.css' %}">
+{% endblock %}
+{% block extjs %}
+    <script src="{% static 'cart/js/cart.js' %}"></script>
+{% endblock %}
+
+{% block content %}
+    购物车
+{% endblock %}
