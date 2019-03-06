@@ -1,0 +1,57 @@
+{% extends 'base.html' %}
+{% load static %}
+
+
+{% block title %}
+    首页
+{% endblock %}
+
+{% block content %}
+<div class="goods container">
+
+    <div class="row">
+
+        {% for goods in goods_list %}
+            {#            col-md-4 * 3 = 12  #}
+            {#            col-md-3 * 4 = 12 #}
+            {#            col-md-2 * 6 = 12 #}
+            <div class="col-md-3 col-sm-4 col-xs-6">
+                <div class="thumbnail">
+                    <img src="{{ goods.icon }}" alt="...">
+                    <div class="caption">
+                        <h3><span>{{ goods.id }}</span> - {{ goods.name }}</h3>
+                        <p style="color: red;">￥{{ goods.price }}</p>
+                        <p>
+                            {{ goods.detail }}
+                        </p>
+                    </div>
+                </div>
+            </div>
+        {% endfor %}
+
+    </div>
+
+
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            <li>
+                <a href="#" aria-label="Previous">
+                    <span aria-hidden="true">&laquo;</span>
+                </a>
+            </li>
+            {% for item in total_page %}
+                <li>
+                    <a href="{% url 'app:index' forloop.counter %}">
+                        {{ forloop.counter }}
+                    </a>
+                </li>
+            {% endfor %}
+            <li>
+                <a href="#" aria-label="Next">
+                    <span aria-hidden="true">&raquo;</span>
+                </a>
+            </li>
+        </ul>
+    </nav>
+</div>
+{% endblock %}

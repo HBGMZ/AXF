@@ -1,0 +1,38 @@
+{% load static %}
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>首页</title>
+    <link rel="stylesheet" href="{% static 'css/index.css' %}">
+</head>
+<body>
+
+{% if user %}
+    <div>
+        <a href="{% url 'app:upfile' %}">
+            <img src="/static/media/{{ user.icon }}">
+        </a>
+        用户名: {{ user.username }}
+    </div>
+    <p>
+        <a href="{% url 'app:lottery' %}">抽奖</a>
+    </p>
+    <p>
+        <a href="{% url 'app:logout' %}">
+            退出登录
+        </a>
+    </p>
+{% else %}
+    <p>
+        <a href="{% url 'app:login' %}">未登录</a>
+    </p>
+{% endif %}
+
+<p>
+    <a href="{% url 'app:register' %}">注册</a>
+</p>
+
+</body>
+</html>

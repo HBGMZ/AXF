@@ -1,0 +1,7 @@
+.navbar-inverse .navbar-brand{
+    padding: 0;
+}
+.navbar-inverse .navbar-brand img{
+    width: 60px;
+    height: 50px;
+}

@@ -1,0 +1,53 @@
+{% extends 'base.html' %}
+{% load static %}
+
+{% block title %}
+    商品列表
+{% endblock %}
+
+{% block main_content %}
+    {% for goods in pageObj.object_list %}
+        <div class="media" style="border: 1px solid gray;">
+            <div class="media-left">
+                <a href="#">
+                    <img class="media-object" src="{{ goods.icon }}" alt="...">
+                </a>
+            </div>
+            <div class="media-body">
+                <h4 class="media-heading">{{ goods.name }}</h4>
+                <p>￥{{ goods.price }}</p>
+                <p>{{ goods.detail }}</p>
+            </div>
+        </div>
+    {% endfor %}
+
+    <nav aria-label="Page navigation">
+        <ul class="pagination">
+            <li>
+                {% if pageObj.has_previous %}
+                    <a href="{% url 'app:goods' pageObj.previous_page_number %}" aria-label="Previous">
+                        <span aria-hidden="true">&laquo;</span>
+                    </a>
+                {% endif %}
+            </li>
+            {% for item in pageObj.paginator.page_range %}
+                <li>
+                   {% if item == pageObj.number %}
+                       <span style="color: red">{{ item }}</span>
+                   {% else %}
+                        <a href="{% url 'app:goods' forloop.counter %}">
+                            {{ forloop.counter }}
+                        </a>
+                   {% endif %}
+                </li>
+            {% endfor %}
+            <li>
+                {% if pageObj.has_next %}
+                    <a href="{% url 'app:goods' pageObj.next_page_number %}" aria-label="Next">
+                        <span aria-hidden="true">&raquo;</span>
+                    </a>
+                {% endif %}
+            </li>
+        </ul>
+    </nav>
+{% endblock %}

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>{{ news.n_title }}</title>
+</head>
+<body>
+
+<h2>{{ news.n_title }}</h2>
+<p>
+    {{ news.n_time }}
+</p>
+<div class="content">
+    {{ news.n_content | safe }}
+</div>
+
+</body>
+</html>
