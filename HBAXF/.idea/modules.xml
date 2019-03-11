@@ -4,7 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../DjangoAXF/.idea/DjangoAXF.iml" filepath="$PROJECT_DIR$/../DjangoAXF/.idea/DjangoAXF.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/HBAXF.iml" filepath="$PROJECT_DIR$/.idea/HBAXF.iml" />
-      <module fileurl="file://$USER_HOME$/Desktop/Django1812/Python1812/Python181AXF/.idea/Python181AXF.iml" filepath="$USER_HOME$/Desktop/Django1812/Python1812/Python181AXF/.idea/Python181AXF.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../afx1812/.idea/afx1812.iml" filepath="$PROJECT_DIR$/../afx1812/.idea/afx1812.iml" />
     </modules>
   </component>
 </project>

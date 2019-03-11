@@ -13,5 +13,95 @@
 {% endblock %}
 
 {% block content %}
-    闪购超市
+    {#   列表分类#}
+    <div class="market">
+        <div class="type-slider">
+            <ul>
+                {% for foodtype in foodtypes %}
+                    <li>
+                        <span></span>
+                        <a href="{% url 'axf:marketbase' %}">
+                            {% if forloop.counter == foodtype.typesort %}
+                                {{ foodtype.typename }}
+
+                            {% endif %}
+                        </a>
+                    </li>
+                {% endfor %}
+
+
+            </ul>
+        </div>
+
+        {#    导航#}
+        <nav>
+            <ul>
+                <li id="category-bt">
+            <span>全部类型
+            <i class="glyphicon glyphicon-chevron-up"></i></span>
+                </li>
+                <li id="sort-bt">
+            <span>综合排序
+            <i class="glyphicon glyphicon-chevron-up"></i></span>
+                </li>
+            </ul>
+        </nav>
+        {#s商品展示#}
+        <div class="main-content">
+            {#  全部商品展示 #}
+            <div class="content-wrapper">
+                <ul>
+                    {% for goods in goods_list %}
+                        <li>
+                            <a href="#">
+                                <img src="{{ goods.productimg }}" alt="" class="goods-img">
+                                <div class="goods-info">
+                                    <p class="name">{{ goods.productlongname }}</p>
+                                    <p class="detailtag">
+                                        {% if goods.isxf %}
+                                            <span class="xf">精选</span>
+                                        {% endif %}
+                                        <span>销量：{{ goods.productnum }}</span>
+                                    </p>
+
+                                    <p class="specifics">{{ goods.specifics }}</p>
+                                    <p class="price">
+                                        <span class="now-price">{{ goods.price }}</span>
+                                        <span class="market-price">{{ goods.marketprice }}</span>
+                                    </p>
+                                </div>
+                            </a>
+                            <div class="bt-wrapper">
+                                <span class="glyphicon glyphicon-chevron-left"></span>
+                                <i>1</i>
+                                <span class="glyphicon glyphicon-chevron-right"></span>
+                            </div>
+                        </li>
+                    {% endfor %}
+
+                </ul>
+            </div>
+            <div class="bounce-view ">
+                <div class="bounce-wrapper category-view">
+                    {% for childtype in childtype_list %}
+                        <a href="{% url 'axf:market' childtype.id 0   %}">{{ childtype.name }}</a>
+                    {% endfor %}
+                </div>
+
+            </div>
+            <div class="bounce-view sort-view">
+                <div class="bounce-wrapper">
+                    <a href="{% url 'axf:market' childid 0 %}">综合排序</a>
+                    <a href="{% url 'axf:market' childid 1 %}">销量排序</a>
+                    <a href="{% url 'axf:market' childid 2 %}">价格最低</a>
+                    <a href="{% url 'axf:market' childid 3 %}">价格最高</a>
+                </div>
+
+            </div>
+            {#        #}
+
+        </div>
+
+
+    </div>
 {% endblock %}

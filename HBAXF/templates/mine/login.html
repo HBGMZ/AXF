@@ -1,0 +1,29 @@
+{% extends 'base/base.html' %}
+{% load static %}
+
+{% block title %}
+    登录
+{% endblock %}
+
+{% block footer %}
+{% endblock %}
+
+{% block extcss %}
+    <link rel="stylesheet" href="{% static 'mine/css/login.css' %}">
+{% endblock %}
+
+{% block extjs %}
+    <script src="{% static 'mine/js/login.js' %}"></script>
+{% endblock %}
+
+{% block content %}
+    <form action="{% url 'axf:login' %}" method="post">
+    {% csrf_token %}
+    <p>用户名：<input type="text" placeholder="请输入用户名" name="name"></p>
+    <p>密码: <input type="password" placeholder="请输入密码" name="password"></p>
+    <p><input type="submit" value="登陆"></p>
+
+
+
+    </form>
+{% endblock %}

@@ -47,6 +47,72 @@
       <change beforePath="$PROJECT_DIR$/../DjangoAXF/templates/mine/login.html" afterPath="$PROJECT_DIR$/../DjangoAXF/templates/mine/login.html" />
       <change beforePath="$PROJECT_DIR$/../DjangoAXF/templates/mine/mine.html" afterPath="$PROJECT_DIR$/../DjangoAXF/templates/mine/mine.html" />
       <change beforePath="$PROJECT_DIR$/../DjangoAXF/templates/mine/registe.html" afterPath="$PROJECT_DIR$/../DjangoAXF/templates/mine/registe.html" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/README.md" afterPath="$PROJECT_DIR$/../afx1812/README.md" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/.idea/dataSources.local.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/.idea/dataSources.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/.idea/dataSources/2415fb80-1a19-4abd-b757-c0f58d0a792b.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/.idea/day09aixianfeng.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/.idea/encodings.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/.idea/misc.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/.idea/modules.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/.idea/workspace.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/admin.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/apps.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/migrations/0001_initial.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/migrations/0002_shop.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/migrations/0003_mainshow.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/migrations/0004_foodtype.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/migrations/0005_goods.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/migrations/0006_user.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/migrations/0007_user_token.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/migrations/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/models.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/tests.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/urls.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/axf/views.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/day09aixianfeng/__init__.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/day09aixianfeng/settings.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/day09aixianfeng/urls.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/day09aixianfeng/wsgi.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/manage.py" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/css/base.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/css/bootstrap.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/css/reset.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/css/swiper.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/img/cart.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/img/cart1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/img/home.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/img/home1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/img/market.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/img/market1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/img/mine.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/img/mine1.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/js/base.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/js/jquery.cookie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/js/jquery.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/base/js/swiper.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/cart/css/cart.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/cart/js/cart.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/home/css/home.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/home/js/home.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/market/css/market.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/market/js/market.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/mine/css/login.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/mine/css/mine.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/mine/css/registe.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/mine/img/axf.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/mine/js/login.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/mine/js/mine.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/static/mine/js/registerr.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/templates/base/base.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/templates/cart/cart.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/templates/home/home.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/templates/market/market.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/templates/mine/login.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/templates/mine/mine.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/../afx1812/day09aixianfeng/templates/mine/register.html" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -97,11 +163,23 @@
     <splitter split-orientation="horizontal" split-proportion="0.5">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file leaf-file-name="urls.py" pinned="false" current-in-tab="true">
+          <file leaf-file-name="urls.py" pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/app/urls.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="234">
-                  <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+                <state relative-caret-position="252">
+                  <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+                  <folding>
+                    <element signature="e#0#32#0" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="cart.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/templates/cart/cart.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="252">
+                  <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
                   <folding />
                 </state>
               </provider>
@@ -111,11 +189,51 @@
       </split-first>
       <split-second>
         <leaf>
-          <file leaf-file-name="views.py" pinned="false" current-in-tab="true">
-            <entry file="file://$PROJECT_DIR$/../DjangoAXF/axf/views.py">
+          <file leaf-file-name="base.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/templates/base/base.html">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="306">
-                  <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+                <state relative-caret-position="125">
+                  <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="register.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/templates/mine/register.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/templates/mine/login.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="login.html" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/templates/mine/login.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="18">
+                  <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+                  <folding />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="register.html" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/templates/mine/register.html">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="0">
+                  <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
                   <folding />
                 </state>
               </provider>
@@ -125,19 +243,34 @@
       </split-second>
     </splitter>
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+        <option value="HTML File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../DjangoAXF" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../afx1812" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/HBAXF/urls.py" />
         <option value="$PROJECT_DIR$/templates/mine/mine.html" />
-        <option value="$PROJECT_DIR$/app/models.py" />
-        <option value="$PROJECT_DIR$/app/urls.py" />
-        <option value="$PROJECT_DIR$/app/views.py" />
         <option value="$PROJECT_DIR$/templates/base/base.html" />
         <option value="$PROJECT_DIR$/static/mine/js/mine.js" />
+        <option value="$PROJECT_DIR$/templates/mine/login.py" />
+        <option value="$PROJECT_DIR$/app/urls.py" />
+        <option value="$PROJECT_DIR$/templates/mine/login.html" />
+        <option value="$PROJECT_DIR$/../DjangoAXF/templates/mine/registe.html" />
+        <option value="$PROJECT_DIR$/app/views.py" />
+        <option value="$PROJECT_DIR$/app/models.py" />
+        <option value="$PROJECT_DIR$/static/mine/js/login.js" />
+        <option value="$PROJECT_DIR$/static/mine/js/registe.js" />
+        <option value="$PROJECT_DIR$/templates/market/market.html" />
       </list>
     </option>
   </component>
@@ -175,6 +308,57 @@
           <expand>
             <path>
               <item name="HBAXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBAXF" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBAXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBAXF" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBAXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBAXF" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBAXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBAXF" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBAXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBAXF" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBAXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBAXF" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBAXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBAXF" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBAXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBAXF" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="market" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBAXF" type="b2602c69:ProjectViewProjectNode" />
+              <item name="HBAXF" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
+              <item name="mine" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="HBAXF" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoAXF" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -190,8 +374,7 @@
             <path>
               <item name="HBAXF" type="b2602c69:ProjectViewProjectNode" />
               <item name="DjangoAXF" type="462c0819:PsiDirectoryNode" />
-              <item name="static" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="templates" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -203,9 +386,16 @@
   <component name="PropertiesComponent">
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Desktop/Django1812/Python1812/Python181AXF" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../afx1812" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/templates/mine" />
+      <recent name="$PROJECT_DIR$/static/mine/css" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -260,17 +450,17 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="67" y="24" width="737" height="612" extended-state="6" />
+    <frame x="67" y="24" width="1303" height="780" extended-state="6" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32635984" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21933623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.26987448" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14535345" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32724383" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36796537" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -283,6 +473,28 @@
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26987448" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21933623" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.36796537" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="SciView" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -295,256 +507,10 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2574">
-          <caret line="143" column="14" lean-forward="true" selection-start-line="143" selection-start-column="14" selection-end-line="143" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/templates/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/88d1b174-980d-4821-bcd8-435e02f3c03b/console.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/py1809AXF/settings.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/templates/mine/login.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/templates/mine/registe.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/axf/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/requirements.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/manage.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/README.md">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/templates/market/market.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="39" column="0" lean-forward="false" selection-start-line="38" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/static/market/js/market.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/static/market/css/market.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Django1812/Python1812/Python181AXF/Python181AXF/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/HBAXF/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="20" column="4" lean-forward="false" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Django1812/Python1812/Python181AXF/app/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <element signature="e#0#32#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Django1812/Python1812/Python181AXF/templates/cart/cart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Django1812/Python1812/Python181AXF/templates/base/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-999">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/cart/cart.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Django1812/Python1812/Python181AXF/app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="329">
-          <caret line="74" column="0" lean-forward="true" selection-start-line="74" selection-start-column="0" selection-end-line="74" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Django1812/Python1812/Python181AXF/templates/mine/mine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/axf/urls.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="288">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/axf/apps.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="747">
-          <caret line="87" column="50" lean-forward="false" selection-start-line="87" selection-start-column="50" selection-end-line="87" selection-end-column="50" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/Desktop/Django1812/Python1812/Python181AXF/app/views.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-333">
-          <caret line="12" column="10" lean-forward="true" selection-start-line="12" selection-start-column="10" selection-end-line="12" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-261">
-          <caret line="74" column="6" lean-forward="true" selection-start-line="74" selection-start-column="6" selection-end-line="74" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/mine/mine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1899">
-          <caret line="9" column="17" lean-forward="true" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../DjangoAXF/templates/mine/mine.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-117">
-          <caret line="108" column="33" lean-forward="true" selection-start-line="108" selection-start-column="33" selection-end-line="108" selection-end-column="33" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../DjangoAXF/templates/base/base.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="153">
           <caret line="63" column="20" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="81" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/base/base.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="401">
-          <caret line="81" column="7" lean-forward="false" selection-start-line="81" selection-start-column="7" selection-end-line="81" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templates/market/market.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="15" column="8" lean-forward="true" selection-start-line="15" selection-start-column="8" selection-end-line="15" selection-end-column="8" />
           <folding />
         </state>
       </provider>
@@ -557,14 +523,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/templates/home/home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="437">
-          <caret line="140" column="20" lean-forward="true" selection-start-line="140" selection-start-column="20" selection-end-line="140" selection-end-column="20" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../DjangoAXF/axf/models.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="747">
@@ -573,26 +531,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/static/mine/js/mine.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/../DjangoAXF/static/mine/js/mine.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="2" lean-forward="true" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/static/mine/css/mine.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1557">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -639,8 +581,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/../DjangoAXF/axf/views.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="26" column="20" lean-forward="true" selection-start-line="26" selection-start-column="20" selection-end-line="26" selection-end-column="20" />
+        <state relative-caret-position="-576">
+          <caret line="22" column="9" lean-forward="true" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -676,10 +618,295 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mine/login.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DjangoAXF/templates/mine/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="24" column="10" lean-forward="false" selection-start-line="24" selection-start-column="10" selection-end-line="24" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../DjangoAXF/templates/mine/registe.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1242">
+          <caret line="81" column="15" lean-forward="false" selection-start-line="81" selection-start-column="15" selection-end-line="81" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/axf/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="137" column="19" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="154" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="154" column="31" lean-forward="false" selection-start-line="154" selection-start-column="31" selection-end-line="154" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="471">
+          <caret line="123" column="30" lean-forward="false" selection-start-line="123" selection-start-column="30" selection-end-line="123" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/axf/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="0" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/axf/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="true" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#32#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/static/mine/img/axf.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mine/css/mine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1563">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mine/js/mine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="2" lean-forward="false" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/static/mine/js/mine.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/static/mine/css/mine.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="273">
+          <caret line="81" column="27" lean-forward="false" selection-start-line="81" selection-start-column="27" selection-end-line="81" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/static/mine/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/static/mine/js/registerr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/static/mine/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mine/css/login.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mine/js/login.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="15" column="0" lean-forward="true" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+        <state relative-caret-position="252">
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#0#32#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mine/js/registe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/static/mine/css/registe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/static/mine/css/registe.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="1" lean-forward="true" selection-start-line="21" selection-start-column="1" selection-end-line="21" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/base/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="201">
+          <caret line="36" column="7" lean-forward="true" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/templates/mine/mine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1783">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/market/market.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="557">
+          <caret line="106" column="14" lean-forward="false" selection-start-line="106" selection-start-column="14" selection-end-line="106" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/templates/market/market.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="309">
+          <caret line="88" column="22" lean-forward="true" selection-start-line="88" selection-start-column="22" selection-end-line="88" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="579">
+          <caret line="131" column="6" lean-forward="true" selection-start-line="131" selection-start-column="6" selection-end-line="131" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/templates/home/home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1671">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mine/mine.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="33" column="9" lean-forward="false" selection-start-line="33" selection-start-column="9" selection-end-line="33" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/cart/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="19" lean-forward="true" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/templates/cart/cart.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="7" lean-forward="true" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/templates/base/base.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="57" column="5" lean-forward="false" selection-start-line="57" selection-start-column="5" selection-end-line="57" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/templates/mine/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/../afx1812/axf1812/templates/mine/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mine/login.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templates/mine/register.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
